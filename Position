@@ -1,0 +1,10 @@
+# position:
+	- static: default (display as document flow whever come first )
+	- relative: (similar to static but view on seprate container - but it allow to do left,right, top, bottom margin-padding from it's current position without affecting other static elememnts)
+		i,e it take the element out of the document flow and move it Xpx left, right... we specified.
+	
+	- absolute : (take element out of document flow to postion on some non static parent container [eighter relative/absolute/fixed/stike]. It act like it dosnt exist in static container)
+	not but if there is no parent non static container then it will fall back to web browser
+	
+	- fixed: fixed at the top based on the entire HTML element[now seprate container] nothing to do with parent, (not move even scroll)
+	- stike : fixed position in parent container(and as soon as the element hits the top of the page it not even scroll)
