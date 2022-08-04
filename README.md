@@ -2,6 +2,9 @@
 ```
 (#) p[title] = all p with title  attribute defined
 (#) p[title='Welcome msg'] = all P with title='Welcome msg'
+(#) [data-temp*='slds'] = all elements with data-temp containing slds value
+(#) [data-temp^='slds'] = all elements with data-temp starting with slds value
+(#) [data-temp$='slds'] = all elements with data-temp ending with slds value
 
 (#) p span{ // span inside of p
 
