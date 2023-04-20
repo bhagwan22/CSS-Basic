@@ -1,0 +1,103 @@
+```
+ *{
+    color: black !important;
+}
+
+lightning-progress-step.slds-path__item.slds-is-active.slds-is-current {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-complete::after{
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-complete::before {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-complete {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-current.slds-is-active::before {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-current.slds-is-active::after {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-incomplete.slds-is-active::after {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-incomplete.slds-is-active::before {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-incomplete.slds-is-active{
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-incomplete.slds-is-active:hover {
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-incomplete::after{
+    /* font-weight: bold !important; */
+    background: #CCCABE !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-incomplete::before{
+    /* font-weight: bold !important; */
+    background: #CCCABE !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-path__item.slds-is-incomplete{
+    /* font-weight: bold !important; */
+    background: #CCCABE !important;
+    color:#000000 !important;
+}
+
+
+lightning-progress-step.noCursor.slds-is-current.slds-path__item::after{
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-is-current.slds-path__item::before{
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+
+lightning-progress-step.noCursor.slds-is-current.slds-path__item{
+    font-weight: bold !important;
+    background: #F1FF00 !important;
+    color:#000000 !important;
+}
+```
